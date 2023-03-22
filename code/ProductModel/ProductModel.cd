@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProductModel.ProductRepository">
+    <Position X="9" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAACAAAABAAAAABAAAAAAIAAAAAgAAAIAEAAA=</HashCode>
+      <FileName>ProductRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProductModel.ProductDBContext">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ProductDBContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProductModel.Product">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAggAAAAAAAQAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ViewModels.ProductViewModel">
+    <Position X="8.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAAAIAAAAAAggAAAAAAAQAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DTO\ProductViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProductModel.IRepository&lt;T&gt;">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAABAAAAAAIAAAAAgAAAIAEAAA=</HashCode>
+      <FileName>IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProductModel.IProduct&lt;T&gt;">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

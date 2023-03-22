@@ -1,0 +1,12 @@
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\bin\Debug\net6.0\DataService.deps.json
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\bin\Debug\net6.0\DataService.dll
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\bin\Debug\net6.0\DataService.pdb
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.csproj.AssemblyReference.cache
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.AssemblyInfoInputs.cache
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.AssemblyInfo.cs
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.csproj.CoreCompileInputs.cache
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.dll
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\refint\DataService.dll
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\DataService.pdb
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\ref\DataService.dll

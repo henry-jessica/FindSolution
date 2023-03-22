@@ -1,0 +1,17 @@
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\bin\Debug\net6.0\GenericDataService.deps.json
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\bin\Debug\net6.0\GenericDataService.dll
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\bin\Debug\net6.0\GenericDataService.pdb
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.csproj.AssemblyReference.cache
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.AssemblyInfoInputs.cache
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.AssemblyInfo.cs
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.csproj.CoreCompileInputs.cache
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.dll
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\refint\GenericDataService.dll
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\GenericDataService.pdb
+C:\Users\S00214115\Downloads\rad302-labs-2022-2023-henry-jessica-master\rad302-labs-2022-2023-henry-jessica-master\GenericDataService\obj\Debug\net6.0\ref\GenericDataService.dll
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\GenericDataService.csproj.AssemblyReference.cache
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\GenericDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\GenericDataService.AssemblyInfoInputs.cache
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\GenericDataService.AssemblyInfo.cs
+C:\Users\s00214115\source\repos\rad302-labs-2022-2023-henry-jessica\GenericDataService\obj\Debug\net6.0\GenericDataService.csproj.CoreCompileInputs.cache
